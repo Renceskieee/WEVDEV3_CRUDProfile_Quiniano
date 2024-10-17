@@ -1,0 +1,45 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/-1.14-windows.xml
+/.android
+/.bash_history
+/.cache
+/.dotnet
+/.gitconfig
+/.node_repl_history
+/.nuget
+/.packettracer
+/.vscode
+/3D Objects
+/AppData
+/Cisco Packet Tracer 6.0.1
+/Contacts
+/Creative Cloud Files
+/d4ac4633ebd6440fa397b84f1bc94a3c.7z
+/Downloads
+/Favorites
+/Google Drive
+/HelloWorld
+/HelloWorld.java
+/inittk.ini
+/inst.ini
+/javac
+/Links
+/Music
+/NTUSER.DAT
+/ntuser.dat.LOG1
+/ntuser.dat.LOG2
+/NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+/NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+/NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+/ntuser.ini
+/nuuid.ini
+/OneDrive
+/Pictures
+/Saved Games
+/Searches
+/useruid.ini
+/Videos
+/vmlogs
